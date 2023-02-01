@@ -16,7 +16,7 @@
 ## 🔥Experiences🔥
 
 - YagomCareerStarter: 2022.04 ~ 2022.10
-- AppleDeveloperAcademy: 2023.03
+- AppleDeveloperAcademy: 2023.03 ~ ...
 
 ## 🍎iOS Projects
 
