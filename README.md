@@ -39,7 +39,8 @@
 ### 📒 몽실(Combine, CleanArchitecture) - AppStore 출시
 - 몽실은 하루의 감정을 기록할 수 있는 감정일기장 앱입니다.
 - [🔗앱 다운로드 링크](https://apps.apple.com/app/1666528737)
-<img width="827" alt="스크린샷 2023-02-01 오후 6 13 25" src="https://user-images.githubusercontent.com/101521502/216000700-ff41cb47-1e46-439d-bee4-69e02d6fd0b8.png">
+
+<img width="965" alt="스크린샷 2023-02-01 오후 6 42 23" src="https://user-images.githubusercontent.com/101521502/216007517-98c5f842-34fc-4cd5-8f68-ec004cd5d1ed.png">
 
 - 프로젝트 기간: 2022-12-29 ~ 2023-01-30
 - 팀원: iOS 개발 2명, 디자이너 1명
