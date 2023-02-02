@@ -44,6 +44,7 @@
 
 - 프로젝트 기간: 2022-12-29 ~ 2023-01-30
 - 팀원: iOS 개발 2명, 디자이너 1명
+- [README](https://github.com/kiwi1023/iOS-Mongsil#-mongsil)
 - 키워드: `Comnbine`, `CleanArchitecher`, `CoreData`, `FireBase`
 
 ## 📫Contact
